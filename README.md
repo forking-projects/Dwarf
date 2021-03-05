@@ -1,5 +1,5 @@
 # Dwarf Redmine Theme
-Public Version 1.0.0
+Public Version 1.0.1
 
 ### Inception
 Hey folks!
